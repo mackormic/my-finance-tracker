@@ -20,6 +20,7 @@ function SignIn() {
             width={500}
             height={500}
             alt="google"
+            priority="true"
           />
         </div>
 

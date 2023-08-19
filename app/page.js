@@ -275,7 +275,7 @@ export default function Home() {
         </section>
 
         <section className="py-6">
-          <a id="stats" />
+          {/* <a id="stats" /> */}
 
           <h3 className="text-2xl">Stats</h3>
           <div className="w-1/2 mx-auto">

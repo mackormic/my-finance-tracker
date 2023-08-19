@@ -3,7 +3,6 @@
 import { createContext } from "react";
 
 import { auth } from "@/libs/firebase";
-
 import { GoogleAuthProvider, signInWithPopup, signOut } from "firebase/auth";
 import { useAuthState } from "react-firebase-hooks/auth";
 
